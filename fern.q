@@ -3,4 +3,4 @@
 // constants
 mat:1000#enlist 2000#0;t:xn:yn:.0;
 m:((.0 .0;.0 .16);(.85 .04;-.04 .85);(.2 -.26;.23 .22);(-.15 .28;.26 .24));c:(.0 .0;.0 1.6;.0 1.6;.0 .44);
-100000 {i:first where rand[1f]<(.01;.86;.93;1);(xn;yn):mmu[m[i];x]+c[i];.[`mat;500+floor 100*(xn;yn);:;255];(xn;yn)}\(xn;yn);
+1000000 {i:first where rand[1f]<(.01;.86;.93;1);(xn;yn):mmu[m[i];x]+c[i];.[`mat;500+floor 100*(xn;yn);:;255];(xn;yn)}\(xn;yn);
