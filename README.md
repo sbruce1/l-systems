@@ -8,15 +8,15 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 
 ![](./src/fern.png)
 
-## Koch
+## Koch Curve
 
 [L-System Koch Curve](https://en.wikipedia.org/wiki/L-system#Example_4:_Koch_curve)
 
 ![](./src/koch.png)
 
-## Sierpinski
+## Sierpinski Triangle
 
-[Sierpinski](https://en.wikipedia.org/wiki/L-system#Example_5:_Sierpinski_triangle)
+[Sierpinski Triangle](https://en.wikipedia.org/wiki/L-system#Example_5:_Sierpinski_triangle)
 
 ![](./src/sierpinski.png)
 
@@ -25,3 +25,9 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 [Fractal (Binary) Tree](https://en.wikipedia.org/wiki/L-system#Example_2:_fractal_(binary)_tree)
 
 ![](./src/btree.png)
+
+## Dragon Curve
+
+[Dragon Curve](https://en.wikipedia.org/wiki/L-system#Example_6:_dragon_curve)
+
+![](./src/dragon.png)
