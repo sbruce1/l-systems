@@ -44,6 +44,12 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 
 ![](./src/levy.png)
 
+## Crystal
+
+[Crystal](https://paulbourke.net/fractals/lsys/)
+
+![](./src/crystal.png)
+
 ## Koalm
 
 [Koalm](https://paulbourke.net/fractals/lsys/)
