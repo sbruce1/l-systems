@@ -1,4 +1,3 @@
-// https://en.wikipedia.org/wiki/Barnsley_fern
 \l anim.q
 // constants
 mat:1000#enlist 2000#0;t:xn:yn:.0;

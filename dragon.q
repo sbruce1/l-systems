@@ -1,4 +1,3 @@
-// https://en.wikipedia.org/wiki/L-system
 \l turtle.q
 
 R:"FG-+"!("F+G";"F-G";"-";"+");

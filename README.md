@@ -31,3 +31,9 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 [Dragon Curve](https://en.wikipedia.org/wiki/L-system#Example_6:_dragon_curve)
 
 ![](./src/dragon.png)
+
+## Plant
+
+[Plant](https://en.wikipedia.org/wiki/L-system#Example_7:_fractal_plant)
+
+![](./src/plant.png)

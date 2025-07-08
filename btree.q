@@ -1,6 +1,3 @@
-// https://en.wikipedia.org/wiki/L-system
-//
-// This one is interesting because it's the easiest one that requires "checkpoints"
 \l turtle.q
 
 S:();
