@@ -5,7 +5,7 @@ mat:128#enlist 128#0;
 .z.ph:{$["anim.html"~x 0;.h.hp enlist img[y];.z.ph0 x]}[;mat];
 ws,:0#0;.z.wo:{ws,::x};.z.wc:{ws::ws except x};.z.ws:value;
 img:{[mat]
-  "<canvas id='s' width=",string[2*count first mat]," height=",string[2*count mat],"></canvas>",
+  "<canvas id='s' width=",string[count first mat]," height=",string[count mat],"></canvas>",
   "<script>var ws = new WebSocket('ws://localhost:",string[port],"');",
   "ws.binaryType = 'arraybuffer';",
   "ws.onmessage = msg => {",
