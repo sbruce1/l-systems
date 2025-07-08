@@ -38,6 +38,12 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 
 ![](./src/plant.png)
 
+## Levy Curve
+
+[Levy Curve](https://paulbourke.net/fractals/lsys/)
+
+![](./src/levy.png)
+
 ## Koalm
 
 [Koalm](https://paulbourke.net/fractals/lsys/)
