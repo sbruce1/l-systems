@@ -37,3 +37,9 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 [Plant](https://en.wikipedia.org/wiki/L-system#Example_7:_fractal_plant)
 
 ![](./src/plant.png)
+
+## Koalm
+
+[Koalm](https://paulbourke.net/fractals/lsys/)
+
+![](./src/koalm.png)
