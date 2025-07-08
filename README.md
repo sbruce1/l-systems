@@ -14,3 +14,8 @@ Initially I found the [simulated growth of plants](https://en.wikipedia.org/wiki
 
 ![](./src/koch.png)
 
+## Sierpinski
+
+[Sierpinski](https://en.wikipedia.org/wiki/L-system#Example_5:_Sierpinski_triangle)
+
+![](./src/sierpinski.png)
